@@ -89,7 +89,7 @@ programa
 	}
 
 	funcao mostrarMensagemDeBoasVindas() {
-		escreva("\nBem-Vindos! " + jogadores[0] + "e " + jogadores[1] + "! \n")
+		escreva("\nBem-Vindos! " + jogadores[0] + " e " + jogadores[1] + "! \n")
 		escreva("Vamos jogar Jogo da Velha!\n")
 		escreva(jogadores[0] + " Vai começar! ")
 	}
@@ -144,7 +144,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 1710; 
+ * @POSICAO-CURSOR = 1798; 
  * @DOBRAMENTO-CODIGO = [45, 61, 128];
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
